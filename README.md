@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-19/628314-628314.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (1) (5)-628314_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-20/628371-628371.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/weatherrr-573469-628371_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ඉතිහාසයේ පළමු වරට ඇමරිකානු, චීන සහ රුසියානු නායකයින් අද එකම සාකච්ඡා මේසයට...</h2>
+<h2>දවසේ(20) කාලගුණ තත්ත්වයේ නවතම තොරතුරු....</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-19&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=NewsFirst&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=NewsFirst&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-19/628314-628314.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/628371-628371.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-19/628308-628308.md"><b>කාවන්තිස්සගේ මරණයට හේතුව, මරණ පරීක්ෂණ වාර්තාව අධිකරණයට...</b></a> <code>2026-11-19</code></li>
-    <li><a href="News/2026-11-19/618877-618877.md"><b>නව අධ්‍යාපන ප්‍රතිසංස්කරණ පිළිබඳ පාසල් මට්ටමෙන් දැනුවත් කිරීම අද සිට ඇරඹේ...</b></a> <code>2026-11-19</code></li>
-    <li><a href="News/2026-11-19/628295-628295.md"><b>අක්වාන් සුළිකුණාටුව ඉන්දියාවට යන ලකුණු, තවදුරටත් මුහුදු යෑමෙන් වළකින්නැයි ධීවරයින්ට අවවාද...</b></a> <code>2026-11-19</code></li>
-    <li><a href="News/2026-11-19/628289-628289.md"><b>ප්‍රධාන නගර 5ක වායු ගුණාත්මකභාවය පහළට....</b></a> <code>2026-11-19</code></li>
+    <li><a href="News/2026-11-20/628358-628358.md"><b>කඩුවෙල ගින්නෙන් මියගිය අයගේ පශ්චාත් මරණ පරික්ෂණය අද</b></a> <code>2026-11-20</code></li>
+    <li><a href="News/2026-11-20/628352-628352.md"><b>හෙරොයින් කිලෝග්‍රෑම් 71 සමග සැකකරුවන් දෙදෙනෙකු චෙන්නායිහිදී අත්අඩංගුවට</b></a> <code>2026-11-20</code></li>
+    <li><a href="News/2026-11-20/628346-628346.md"><b>අස්වැසුම ලබාගන්න දිවුරුම් ප්‍රකාශයක් දීම අනිවාර්ය කෙරේ</b></a> <code>2026-11-20</code></li>
     <li><a href="News/2026-11-19/628334-628334.md"><b>ජොන්ස්ටන් එරෙහි නඩුවේ වැඩිදුර සාක්ෂි විභාගය ලබන 16</b></a> <code>2026-11-19</code></li>
+    <li><a href="News/2026-11-20/628377-628377.md"><b>අදත් ප්‍රදේශ රැසක වායුගෝලයේ ගුණාත්මකභාවය පහළට.</b></a> <code>2026-11-20</code></li>
   </ul>
 </details>
 
