@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-20/628389-2026-6-9.md">
+<a href="News/2026-11-20/628389-628389.md">
   <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (6)-628389_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>2026 නේෂන්ස් කුසලාන නැගී එන කාන්තා ක්‍රිකට් තරගාවලියේ සුපිරි 6 දෙනාගේ වටයේදී ශ්‍රී ලංකාව කඩුලු 9ක ජයක්</h2>
+<h2>සිම්බාබ්වේට එරෙහි ක්‍රිකට් තරගයේ ජය ශ්‍රී ලංකා කාන්තා කණ්ඩායමට</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-20/628389-2026-6-9.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/628389-628389.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
