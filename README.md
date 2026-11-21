@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-21/628440-628440.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/76c7177a-6f107527-arrest-handcuffs1_crop-515557-628440_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-21/628465-628465.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (3)-628465_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>හෑෂ් සමග සැකකරුවෙකු අත්අඩංගුවට.</h2>
+<h2>හොංකොං කණ්ඩායමට එරෙහි තරගයෙන් ශ්‍රී ලංකාවට ලකුණු 24ක ජයක්</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-21/628440-628440.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-21/628465-628465.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-21/628440-628440.md"><b>හෑෂ් සමග සැකකරුවෙකු අත්අඩංගුවට.</b></a> <code>2026-11-21</code></li>
+    <li><a href="News/2026-11-21/628428-FBI.md"><b>සයිබර් අපරාධ වැළැක්වීමට මෙරටට පැමිණි FBI නියෝජිතයින් පිරිස නීතිපති දෙපාර්තමේන්තුවේ සහ ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් අතර සාකච්ඡා.</b></a> <code>2026-11-21</code></li>
     <li><a href="News/2026-11-21/628396-628396.md"><b>අයවැය කාරක සභා අවස්ථා විවාදය අදින් ඇරඹෙයි...</b></a> <code>2026-11-21</code></li>
-    <li><a href="News/2026-11-20/628403-628403.md"><b>බොරැල්ල ඩී.එස් සේනානායක මංසන්ධියේ කොළඹට ඇතුල්වීමේ මංතීරුව තාවකාලිකව වැසෙයි!</b></a> <code>2026-11-20</code></li>
-    <li><a href="News/2026-11-20/628396-2027-97.md"><b>2027 අයවැය දෙවැනි වර කියවීම වැඩි ඡන්ද 97 සම්මත වෙයි!</b></a> <code>2026-11-20</code></li>
-    <li><a href="News/2026-11-20/628389-628389.md"><b>සිම්බාබ්වේට එරෙහි ක්‍රිකට් තරගයේ ජය ශ්‍රී ලංකා කාන්තා කණ්ඩායමට</b></a> <code>2026-11-20</code></li>
-    <li><a href="News/2026-11-21/628446-628446.md"><b>තලවතුගොඩ, පොල්වත්තේ ප්‍රදේශයේ අබලි ද්‍රව්‍ය එක්රැස්කරන ස්ථානයක ගින්නක්.</b></a> <code>2026-11-21</code></li>
+    <li><a href="News/2026-11-21/628458-628458.md"><b>රුපියල් බිලියන 4 මුදල් වංචාවට සම්බන්ධ සමාගම් අධ්‍යක්ෂවරු දෙදෙනා රිමාන්ඩ්.</b></a> <code>2026-11-21</code></li>
+    <li><a href="News/2026-11-21/628452-Door-to-Door-Skill-Campaign.md"><b>Door to Door Skill Campaign වැඩසටහන ඇරඹේ</b></a> <code>2026-11-21</code></li>
   </ul>
 </details>
 
