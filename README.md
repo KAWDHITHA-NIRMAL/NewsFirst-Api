@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-21/628465-628465.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (3)-628465_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-22/628484-628484.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/Death-body-503501-518736-628484_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>හොංකොං කණ්ඩායමට එරෙහි තරගයෙන් ශ්‍රී ලංකාවට ලකුණු 24ක ජයක්</h2>
+<h2>පුත්තලම, නාගවිල්ලුව දුම්රිය ආසන්නයේ දෙමහල් ගොඩනැගිල්ලක් තුළ පුද්ගල මළ සිරුරක්</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=NewsFirst&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=NewsFirst&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-21/628465-628465.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-22/628484-628484.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-22/599954-599954.md"><b>සියලුම රාජ්‍ය සේවකයන්ගේ සහ ගුරුවරුන්ගේ තුන්වන වැටුප් වැඩිවීම ජනවාරි මාසයේදී</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-21/628465-628465.md"><b>හොංකොං කණ්ඩායමට එරෙහි තරගයෙන් ශ්‍රී ලංකාවට ලකුණු 24ක ජයක්</b></a> <code>2026-11-21</code></li>
+    <li><a href="News/2026-11-21/628458-628458.md"><b>රුපියල් බිලියන 4 මුදල් වංචාවට සම්බන්ධ සමාගම් අධ්‍යක්ෂවරු දෙදෙනා රිමාන්ඩ්.</b></a> <code>2026-11-21</code></li>
     <li><a href="News/2026-11-21/628452-Door-to-Door-Skill-Campaign.md"><b>Door to Door Skill Campaign වැඩසටහන ඇරඹේ</b></a> <code>2026-11-21</code></li>
-    <li><a href="News/2026-11-21/628446-628446.md"><b>තලවතුගොඩ, පොල්වත්තේ ප්‍රදේශයේ අබලි ද්‍රව්‍ය එක්රැස්කරන ස්ථානයක ගින්නක්.</b></a> <code>2026-11-21</code></li>
-    <li><a href="News/2026-11-21/628440-628440.md"><b>හෑෂ් සමග සැකකරුවෙකු අත්අඩංගුවට.</b></a> <code>2026-11-21</code></li>
-    <li><a href="News/2026-11-21/628428-FBI.md"><b>සයිබර් අපරාධ වැළැක්වීමට මෙරටට පැමිණි FBI නියෝජිතයින් පිරිස නීතිපති දෙපාර්තමේන්තුවේ සහ ජ්‍යෙෂ්ඨ පොලිස් නිලධාරීන් අතර සාකච්ඡා.</b></a> <code>2026-11-21</code></li>
-    <li><a href="News/2026-11-22/628477-628477.md"><b>දිස්ත්‍රික්ක කිහිපයකට අද වැසි..</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-22/628496-628496.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක්</b></a> <code>2026-11-22</code></li>
   </ul>
 </details>
 
