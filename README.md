@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-22/628484-628484.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/Death-body-503501-518736-628484_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-22/628502-628502.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (4)-628502_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>පුත්තලම, නාගවිල්ලුව දුම්රිය ආසන්නයේ දෙමහල් ගොඩනැගිල්ලක් තුළ පුද්ගල මළ සිරුරක්</h2>
+<h2>සයිබර් ප්‍රහාරයක් එල්ල වුවද, රහස්‍ය දත්ත ආරක්ෂිතයි! - මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව කියයි</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-22/628484-628484.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-22/628502-628502.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-22/599954-599954.md"><b>සියලුම රාජ්‍ය සේවකයන්ගේ සහ ගුරුවරුන්ගේ තුන්වන වැටුප් වැඩිවීම ජනවාරි මාසයේදී</b></a> <code>2026-11-22</code></li>
-    <li><a href="News/2026-11-21/628465-628465.md"><b>හොංකොං කණ්ඩායමට එරෙහි තරගයෙන් ශ්‍රී ලංකාවට ලකුණු 24ක ජයක්</b></a> <code>2026-11-21</code></li>
-    <li><a href="News/2026-11-21/628458-628458.md"><b>රුපියල් බිලියන 4 මුදල් වංචාවට සම්බන්ධ සමාගම් අධ්‍යක්ෂවරු දෙදෙනා රිමාන්ඩ්.</b></a> <code>2026-11-21</code></li>
-    <li><a href="News/2026-11-21/628452-Door-to-Door-Skill-Campaign.md"><b>Door to Door Skill Campaign වැඩසටහන ඇරඹේ</b></a> <code>2026-11-21</code></li>
     <li><a href="News/2026-11-22/628496-628496.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක්</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-22/626893-626893.md"><b>නියෝජ්‍ය පොලිස්පති 6කට ස්ථාන මාරු</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-22/628484-628484.md"><b>පුත්තලම, නාගවිල්ලුව දුම්රිය ආසන්නයේ දෙමහල් ගොඩනැගිල්ලක් තුළ පුද්ගල මළ සිරුරක්</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-22/628477-628477.md"><b>දිස්ත්‍රික්ක කිහිපයකට අද වැසි..</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-22/628520-628520.md"><b>සාමාන්‍ය විදේශ ගමන් බලපත්‍ර දරන්නන් සඳහා වීසා නිදහස් කිරීමේ ගිවිසුමකට ශ්‍රී ලංකාව සහ තායිලන්තය අත්සන් තබයි</b></a> <code>2026-11-22</code></li>
   </ul>
 </details>
 
