@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-22/628502-628502.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (4)-628502_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-23/628544-628544.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (1) (2)-628544_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>සයිබර් ප්‍රහාරයක් එල්ල වුවද, රහස්‍ය දත්ත ආරක්ෂිතයි! - මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව කියයි</h2>
+<h2>නිවාස ආධාර වැඩසටහන යටතේ ඉදිකළ නිවාස තුන් දහසක් විවෘත කිරීම අද සිට...</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=NewsFirst&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=NewsFirst&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-22/628502-628502.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-23/628544-628544.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-23/628538-628538.md"><b>සාමාන්‍ය ගමන් බලපත්‍ර හිමියන් සඳහා වීසා නිදහස් කිරීමේ ගිවිසුමකට ශ්‍රී ලංකාව හා තායිලන්තය අත්සන් තබයි...</b></a> <code>2026-11-23</code></li>
+    <li><a href="News/2026-11-22/628508-628508.md"><b>මුතුවැල්ල ධීවර වරාය ආසන්නයේ ඩීසල් කාන්දුවක්!</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-22/628502-628502.md"><b>සයිබර් ප්‍රහාරයක් එල්ල වුවද, රහස්‍ය දත්ත ආරක්ෂිතයි! - මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව කියයි</b></a> <code>2026-11-22</code></li>
     <li><a href="News/2026-11-22/628496-628496.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක්</b></a> <code>2026-11-22</code></li>
-    <li><a href="News/2026-11-22/626893-626893.md"><b>නියෝජ්‍ය පොලිස්පති 6කට ස්ථාන මාරු</b></a> <code>2026-11-22</code></li>
-    <li><a href="News/2026-11-22/628484-628484.md"><b>පුත්තලම, නාගවිල්ලුව දුම්රිය ආසන්නයේ දෙමහල් ගොඩනැගිල්ලක් තුළ පුද්ගල මළ සිරුරක්</b></a> <code>2026-11-22</code></li>
-    <li><a href="News/2026-11-22/628477-628477.md"><b>දිස්ත්‍රික්ක කිහිපයකට අද වැසි..</b></a> <code>2026-11-22</code></li>
-    <li><a href="News/2026-11-22/628520-628520.md"><b>සාමාන්‍ය විදේශ ගමන් බලපත්‍ර දරන්නන් සඳහා වීසා නිදහස් කිරීමේ ගිවිසුමකට ශ්‍රී ලංකාව සහ තායිලන්තය අත්සන් තබයි</b></a> <code>2026-11-22</code></li>
+    <li><a href="News/2026-11-23/628212-628212.md"><b>නව කැලණි පාලම සහ වරාය පිවිසුම් ගුවන් අධිවේගී මාර්ගය අතර කොටස ඉදිකිරීමේ කටයුතු හේතුවෙන් ඉඟුරුකඩේ අන්තර් හුවමාරුව තාවකාලිකව වැසේ...</b></a> <code>2026-11-23</code></li>
   </ul>
 </details>
 
