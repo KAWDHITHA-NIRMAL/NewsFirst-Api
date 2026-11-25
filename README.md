@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-24/625019-625019.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/earthquake-508951-542520-559431-609476-625019_850x460-626462_850x460-628652_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-25/628677-628677.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/parliment_web-508270-508820-509230-514514-520372-628677_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>මැඩගස්කරය ආසන්න මුහුදේ මැග්නිටියුඩ් 6.5 ක භූ කම්පනයක්...</h2>
+<h2>අයවැය තුන්වර කියවීම අදත්..</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=NewsFirst&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=NewsFirst&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-24/625019-625019.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-25/628677-628677.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-25/628671-628671.md"><b>අනධ්‍යන සේවකයින්ගේ වැඩවර්ජනය හේතුවෙන් විශ්වවිද්‍යාලවල අද දිනයට නියමිත විභාග කල් දැමේ.. - විශ්වවිද්‍යාල පරිපාලනය</b></a> <code>2026-11-25</code></li>
+    <li><a href="News/2026-11-24/625019-625019.md"><b>මැඩගස්කරය ආසන්න මුහුදේ මැග්නිටියුඩ් 6.5 ක භූ කම්පනයක්...</b></a> <code>2026-11-24</code></li>
     <li><a href="News/2026-11-24/628164-2026-11-23.md"><b>2026 -11-23 දිනට අදාළ කැබිනට් තීරණ මෙන්න...</b></a> <code>2026-11-24</code></li>
     <li><a href="News/2026-11-24/628629-628629.md"><b>සමුද්‍ර ජීව විද්‍යා සංගමයේ ගෞරවනීය අධිසාමාජික පදවිය ශ්‍රී ලාංකික විද්‍යාඥ ආචාර්ය ආශා ඩි වොස්</b></a> <code>2026-11-24</code></li>
-    <li><a href="News/2026-11-24/628623-628623.md"><b>ලෝක වෙළෙඳපොලේ බොරතෙල් මිල පහළට...</b></a> <code>2026-11-24</code></li>
-    <li><a href="News/2026-11-24/628617-628617.md"><b>මහවැලි ඉඩම් නැවත රජයට පවරා ගැනිමට තීරණයක්</b></a> <code>2026-11-24</code></li>
-    <li><a href="News/2026-11-24/613735-613735.md"><b>නායයෑම පිළිබඳ අනතුරු ඇඟවීම්...</b></a> <code>2026-11-24</code></li>
+    <li><a href="News/2026-11-25/628683-628683.md"><b>අදත් හවසට තද වැස්ස..</b></a> <code>2026-11-25</code></li>
   </ul>
 </details>
 
