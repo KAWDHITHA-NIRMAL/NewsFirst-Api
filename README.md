@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-25/628696-628696.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (1)-628696_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/628746-628746.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (3) (4)-628746_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ආනන්ද පාලිත ලබන මස 04 දක්වා තවදුරටත් රිමාන්ඩ්</h2>
+<h2>දෙදින නිල සංචාරයක් සඳහා රුසියානු නීතිපති දිවයිනට...</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=NewsFirst&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=NewsFirst&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-25/628696-628696.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/628746-628746.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-25/628690-628690.md"><b>ජොන්ස්ටන්ට වසර 5කට අත්හිට වූ සිර දඬුවම් හා දඩ, වාහනයත් රාජසන්තකයි.</b></a> <code>2026-11-25</code></li>
-    <li><a href="News/2026-11-25/628683-628683.md"><b>අදත් හවසට තද වැස්ස..</b></a> <code>2026-11-25</code></li>
-    <li><a href="News/2026-11-25/628677-628677.md"><b>අයවැය තුන්වර කියවීම අදත්..</b></a> <code>2026-11-25</code></li>
-    <li><a href="News/2026-11-25/628671-628671.md"><b>අනධ්‍යන සේවකයින්ගේ වැඩවර්ජනය හේතුවෙන් විශ්වවිද්‍යාලවල අද දිනයට නියමිත විභාග කල් දැමේ.. - විශ්වවිද්‍යාල පරිපාලනය</b></a> <code>2026-11-25</code></li>
+    <li><a href="News/2026-11-26/619013-619013.md"><b>රාජ්‍ය මුදල් කාර්යක්ෂමව කළමනාකරණය කිරීමේ අවශ්‍යතාව ජනපති නිලධාරින්ට පහදයි....</b></a> <code>2026-11-26</code></li>
     <li><a href="News/2026-11-25/628716-628716.md"><b>දැදුරු ඔය ජලාශයේ වාන්දොරටු 4 ක් විවෘත කෙරේ.</b></a> <code>2026-11-25</code></li>
+    <li><a href="News/2026-11-25/628708-628708.md"><b>රටවල් 14කට ට්‍රම්ප්ගෙන් නව තීරුබදු යෝජනාවක්!</b></a> <code>2026-11-25</code></li>
+    <li><a href="News/2026-11-25/628702-628702.md"><b>කාවන්තිස්ස ඇතුට වෙඩි තැබිමට අදාළ, සැකකරුවන්ගේ ඇප ඉල්ලීම ප්‍රතික්ෂේප කෙරේ.</b></a> <code>2026-11-25</code></li>
+    <li><a href="News/2026-11-26/628734-628734.md"><b>ඉන්ධන බවුසරයක් පෙරලීමෙන් කයිරෝ නුවර අධිවේගී මාර්ගයක බිහිසුණු ගින්නක්...</b></a> <code>2026-11-26</code></li>
   </ul>
 </details>
 
