@@ -17,14 +17,14 @@
 
 <br><br>
 
-<a href="News/2026-11-26/628746-628746.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/New Project (3) (4)-628746_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/628814-100.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/ec6e9412-rain-533022-628814_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>දෙදින නිල සංචාරයක් සඳහා රුසියානු නීතිපති දිවයිනට...</h2>
+<h2>ප්‍රදේශ කිහිපයකට අද මි.මී. 100ට වැඩි තද වැසි.</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=NewsFirst&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=NewsFirst&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-26/628746-628746.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/628814-100.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-26/619013-619013.md"><b>රාජ්‍ය මුදල් කාර්යක්ෂමව කළමනාකරණය කිරීමේ අවශ්‍යතාව ජනපති නිලධාරින්ට පහදයි....</b></a> <code>2026-11-26</code></li>
-    <li><a href="News/2026-11-26/628728-628728.md"><b>ජීවිත රැසක් බිළිගත් දිට්වා ව්‍යසනයට අදට වසරක්, මිය ගිය සහ අතුරුදන් වූවන් සිහිකරමින් ජාතික වැඩසටහන බදුල්ලේදී...</b></a> <code>2026-11-26</code></li>
-    <li><a href="News/2026-11-26/628683-100mm.md"><b>අදත් ප්‍රදේශ රැසකට 100mm ඉක්මවූ වැසි - කාලගුණ විද්‍යා දෙපාර්තමේන්තුව</b></a> <code>2026-11-26</code></li>
-    <li><a href="News/2026-11-25/628716-628716.md"><b>දැදුරු ඔය ජලාශයේ වාන්දොරටු 4 ක් විවෘත කෙරේ.</b></a> <code>2026-11-25</code></li>
-    <li><a href="News/2026-11-26/628759-628759.md"><b>රෝහිතගෙන් පොලිස් මුල්‍ය අපරාධ විමර්ෂණ කොට්ඨශයට පැය 04 ක ප්‍රකාශයක්</b></a> <code>2026-11-26</code></li>
+    <li><a href="News/2026-11-27/628808-628808.md"><b>පුත්තලම, මහකුඹුක්කඩවල කරුක්කුමඩුව කනිෂ්ඨ විද්‍යාලයේ නව පුස්තකාලය ඉදිකිරීම සඳහා ගම්මැද්දෙන් අද මුල්ගල් තැබේ.</b></a> <code>2026-11-27</code></li>
+    <li><a href="News/2026-11-27/628799-628799.md"><b>විජිත හේරත් හා එස්.ජයශංකර් අතර හමුවක් නවදිල්ලියේදී</b></a> <code>2026-11-27</code></li>
+    <li><a href="News/2026-11-27/628793-628793.md"><b>අස්වැසුම ප්‍රතිලාභීන්ට ප්‍රතිලාභ ගෙවීම අද සිදුවෙයි...</b></a> <code>2026-11-27</code></li>
+    <li><a href="News/2026-11-27/628787-628787.md"><b>තීරණාත්මක ඩිජිටල් පද්ධති සහිත තෝරාගත් රාජ්‍ය ආයතන 12ක් මේ වන විට ජාතික සයිබර් ආරක්ෂණ පද්ධතියට එක් කර තිබෙනවා.- ඩිජිටල් ආර්ථික නි. අමාත්‍ය එරංග වීරරත්න</b></a> <code>2026-11-27</code></li>
+    <li><a href="News/2026-11-27/628820-628820.md"><b>එයාර්බස් ගෝලීය අල්ලස් ජාලය හෙළි කළ විමර්ශන විශේෂඥවරිය නාමල්ගේ නඩුවේ සාක්ෂි දීමට ශ්‍රී ලංකාවට</b></a> <code>2026-11-27</code></li>
   </ul>
 </details>
 
