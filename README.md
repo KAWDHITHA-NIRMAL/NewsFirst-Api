@@ -17,11 +17,11 @@
 
 <br><br>
 
-<a href="News/2026-11-27/628814-100.md">
-  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/ec6e9412-rain-533022-628814_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/628820-628820.md">
+  <img src="https://cdn.newsfirst.lk/sinhala-uploads/2026/11/Investigator Who Helped Uncover Airbus Global Bribery Network To Appear in Sri Lanka In Case Against Namal-863693-628820_850x460.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ප්‍රදේශ කිහිපයකට අද මි.මී. 100ට වැඩි තද වැසි.</h2>
+<h2>එයාර්බස් ගෝලීය අල්ලස් ජාලය හෙළි කළ විමර්ශන විශේෂඥවරිය නාමල්ගේ නඩුවේ සාක්ෂි දීමට ශ්‍රී ලංකාවට</h2>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
@@ -32,7 +32,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-27/628814-100.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/628820-628820.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -42,11 +42,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-27/628814-100.md"><b>ප්‍රදේශ කිහිපයකට අද මි.මී. 100ට වැඩි තද වැසි.</b></a> <code>2026-11-27</code></li>
     <li><a href="News/2026-11-27/628808-628808.md"><b>පුත්තලම, මහකුඹුක්කඩවල කරුක්කුමඩුව කනිෂ්ඨ විද්‍යාලයේ නව පුස්තකාලය ඉදිකිරීම සඳහා ගම්මැද්දෙන් අද මුල්ගල් තැබේ.</b></a> <code>2026-11-27</code></li>
     <li><a href="News/2026-11-27/628799-628799.md"><b>විජිත හේරත් හා එස්.ජයශංකර් අතර හමුවක් නවදිල්ලියේදී</b></a> <code>2026-11-27</code></li>
     <li><a href="News/2026-11-27/628793-628793.md"><b>අස්වැසුම ප්‍රතිලාභීන්ට ප්‍රතිලාභ ගෙවීම අද සිදුවෙයි...</b></a> <code>2026-11-27</code></li>
-    <li><a href="News/2026-11-27/628787-628787.md"><b>තීරණාත්මක ඩිජිටල් පද්ධති සහිත තෝරාගත් රාජ්‍ය ආයතන 12ක් මේ වන විට ජාතික සයිබර් ආරක්ෂණ පද්ධතියට එක් කර තිබෙනවා.- ඩිජිටල් ආර්ථික නි. අමාත්‍ය එරංග වීරරත්න</b></a> <code>2026-11-27</code></li>
-    <li><a href="News/2026-11-27/628820-628820.md"><b>එයාර්බස් ගෝලීය අල්ලස් ජාලය හෙළි කළ විමර්ශන විශේෂඥවරිය නාමල්ගේ නඩුවේ සාක්ෂි දීමට ශ්‍රී ලංකාවට</b></a> <code>2026-11-27</code></li>
+    <li><a href="News/2026-11-27/628838-T-56.md"><b>T-56 ගිනිඅවියක් හා පතොරම් කිහිපයක් සමඟ සැකකරුවෙකු අත්අඩංගුවට</b></a> <code>2026-11-27</code></li>
   </ul>
 </details>
 
